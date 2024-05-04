@@ -1,0 +1,42 @@
+.nav-bar {
+  width: 100%;
+  padding: 10px 20px;
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+   height: 70px;
+}
+
+
+.website-logo {
+  width: 120px;
+}
+
+.score-timer-container {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.timer-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding-right: 16px;
+}
+
+.score-time {
+  color: #fec653;
+  font-weight: bold;
+}
+
+.timer-image {
+  width: 22px;
+  height: 22px;
+  margin-right: 10px;
+}
